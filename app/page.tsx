@@ -56,6 +56,9 @@ export default function Home() {
         <li className="text-md">
           Office PCs and Gaming PCs
         </li>
+        <li className="text-md">
+          Physical PC Cleaning 
+        </li>
         <p className="text-lg mt-6">
           If there somthing that you need and is not listed here and just give me a call and i can tell you if I can do it or not 
         </p>
