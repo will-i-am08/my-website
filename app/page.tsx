@@ -57,7 +57,7 @@ export default function Home() {
           Office PCs and Gaming PCs
         </li>
         <p className="text-lg mt-6">
-          If there somthing that you need and is not listed here and just give me a call and tell you if I can do it or not 
+          If there somthing that you need and is not listed here and just give me a call and i can tell you if I can do it or not 
         </p>
         <h2 className="text-2xl font-bold mb-4 mt-16">
           Contact Us 
