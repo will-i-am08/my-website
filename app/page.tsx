@@ -65,6 +65,11 @@ export default function Home() {
         <p className="text-lg mt-6">
           If there somthing that you need and is not listed here and just give me a call and i can tell you if I can do it or not 
         </p>
+        <h2 className="text-2xl font-bold mb-4 mt-6">
+        <a href='Services'>
+          Learn more - Services
+          </a>
+        </h2>
         <h2 className="text-2xl font-bold mb-4 mt-16">
           Contact Us 
         </h2>
