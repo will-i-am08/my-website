@@ -31,7 +31,7 @@ export default function HomePage() {
           PC Repairs
           </li>
           <p className="text-lg">
-          Repairs for PCs's and laptops for example Hardware replacements and Hardware Repairs
+          Repairs for PCs and laptops for example Hardware replacements and Hardware Repairs
         </p>
         <li className="text-2xl font-bold mb-4 mt-10">
         Custom PC Builds
@@ -70,10 +70,10 @@ export default function HomePage() {
           Updating Operating Systems in genaral or updating from windows 10 to 11 
         </p>
         <li className="text-2xl font-bold mb-4 mt-10">
-        Office PCs and Gaming PC's
+        Office PCs and Gaming PCs
           </li>
           <p className="text-lg">
-          Prebuilt Office and Gaming PC's 
+          Prebuilt Office and Gaming PCs 
         </p>
         <li className="text-2xl font-bold mb-4 mt-10">
         Physical PC Cleaning
@@ -85,7 +85,7 @@ export default function HomePage() {
         Hardware upgrades
           </li>
           <p className="text-lg">
-          Hardware upgrades for PC's 
+          Hardware upgrades for PCs 
         </p>
         <p className="text-lg font-bold mb-4 mt-16">
         Contact for Prices 
