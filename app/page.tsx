@@ -81,9 +81,6 @@ export default function Home() {
         <p className="text-lg mt-2">
           Phone - 0480 436 685 
         </p>
-        <p className="text-md mt-20">
-          More website coming soon! 
-        </p>
         </div>
       </div>
     </main>

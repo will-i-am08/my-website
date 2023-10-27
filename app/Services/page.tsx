@@ -9,7 +9,6 @@ export default function HomePage() {
         {/* Image Banner */}
         <div className="h-40 flex items-center justify-center">
           <Image
-            className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
             src="/logo.png"
             alt="Next.js Logo"
             width={180}
@@ -28,72 +27,69 @@ export default function HomePage() {
           <h1 className="text-4xl font-bold mb-4">
             Services
           </h1>
-          <li className="text-2xl font-bold mb-4 mt-16">
+          <li className="text-2xl font-bold mb-4 mt-10">
           PC Repairs
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Repairs for PCs's and laptops for example Hardware replacements and Hardware Repairs
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
-        Desktop clean up
-          </li>
-          <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-        </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Custom PC Builds
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Custom PC Builds for whatever you require if it be Gaming, editing or just for evryday use 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Printer set up
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Printer set up for any brand and size of Printer 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Computer Cables
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          If your missing a Cable of any sort i Can supply you with a new one 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Tech set up
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Setting up TV, Computers, consoles, etc 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Operating System Install
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Installing Operating Systems on old or new PC/laptops 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Operating System Uptating
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Updating Operating Systems in genaral or updating from windows 10 to 11 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
-        Office PCs and Gaming PCs
+        <li className="text-2xl font-bold mb-4 mt-10">
+        Office PCs and Gaming PC's
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Prebuilt Office and Gaming PC's 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Physical PC Cleaning
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          if your PC or Laptop is runing slow or hot than it probibly needs a cleen and some new Thermal paste 
         </p>
-        <li className="text-2xl font-bold mb-4 mt-16">
+        <li className="text-2xl font-bold mb-4 mt-10">
         Hardware upgrades
           </li>
           <p className="text-lg">
-          bluh bluh bluhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+          Hardware upgrades for PC's 
         </p>
+        <p className="text-lg font-bold mb-4 mt-16">
+        Contact for Prices 
+          </p>
         </div>
       </div>
     </main>
